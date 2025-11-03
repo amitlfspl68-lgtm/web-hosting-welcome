@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('https://via.placeholder.com/1920x600?text=Web+Hosting+Welcome'); /* Replace with a hosting-themed image */
+    background-size: cover;
+    background-position: center;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 50px;
+}
